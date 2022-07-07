@@ -1,4 +1,4 @@
-module moduletest
+module github.com/shuaixinjie/moduletest
 
 go 1.18
 
